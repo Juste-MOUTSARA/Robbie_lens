@@ -5,4 +5,4 @@ Ce projet consiste à mettre en place un site web pour pour  la visibilité d'un
 ## Apperçu
 
 
-![capture d'écran du site web](./images/Capture.PNG).
+![capture d'écran du site web](./Images/Capture.PNG).
